@@ -66,19 +66,19 @@ python manage.py runserver
 ## Demonstração da API
 
 ### Listagem de Categorias
-![Categorias](./screenshots/01-categorias.png)
+![Categorias](screenshots/01categorias.png)
 
 ### Listagem de Tarefas (Desafio 01)
-![Tarefas](./screenshots/02-tarefas.png)
+![Tarefas](screenshots/02tarefas.png)
 
 ### Listagem de Tarefas (Desafio 01)
-![Tarefas](./screenshots/03-tarefas.png)
+![Tarefas](screenshots/03tarefas.png)
 
 ### Erro de Validação - Máximo 3 tarefas altas (Desafio 03)
-![Erro de Validação](./screenshots/04-validacao-erro.png)
+![Erro de Validação](screenshots/04validacaoerro.png)
 
 ### Endpoint de Tarefas Atrasadas (Desafio 02)
-![Atrasadas](./screenshots/05-atrasadas.png)
+![Atrasadas](screenshots/05atrasadas.png)
 
 ---
 
