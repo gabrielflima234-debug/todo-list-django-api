@@ -74,11 +74,12 @@ python manage.py runserver
 ### Listagem de Tarefas (Desafio 01)
 ![Tarefas](Screenshots/03 - tarefas.png)
 
-### Erro de Validação (Desafio 03)
-![Erro](Screenshots/04 - validacao-erro.png)
+### Erro de Validação - Máximo 3 tarefas altas (Desafio 03)
+![Erro de Validação](Screenshots/04 - validacao-erro.png)
 
 ### Endpoint de Tarefas Atrasadas (Desafio 02)
 ![Atrasadas](Screenshots/05 - Atrasadas.png)
+
 ---
 
 # Desafios Implementados
