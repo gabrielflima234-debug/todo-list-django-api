@@ -65,8 +65,6 @@ python manage.py runserver
 
 ## Demonstração da API
 
-## Demonstração da API
-
 ### Listagem de Categorias
 ![Categorias](Screenshots/01categorias.png)
 
