@@ -99,7 +99,6 @@ python manage.py runserver
 
 ---
 
-# Desenvolvedores
+# Desenvolvedor
 
-- Gabriel Felipe
-- Guilherme Felipe
+- Gabriel Felipe do Nascimento Lima 
